@@ -1,13 +1,14 @@
-Hi 👋, I am Prajwal
+# Hi 👋, I am Prajwal
+
+🎓 Information Science & Engineering Student @ SSIT (2028)
+💻 DSA & Problem Solving Enthusiast
 
 
-🎓 Information Science & Engineering Student  
-💻 DSA & Problem Solving Enthusiast  
+## 🛠 Tools & Technologies
+C++ | Python | Java | C | VS Code
 
-## 🛠️ Tools & Technologies
+## 📊 DSA Progress
+- 🔗 LeetCode: [Prajjucodes](https://leetcode.com/Prajjucodes)
+- Practicing: Arrays, Strings, Hashing, Linked Lists
 
-![C++](https://img.shields.io/badge/C++-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![VS Code](https://img.shields.io/badge/VS_Code-blue)
-![C](https://skillicons.dev/icons?i=c)
 
