@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Aspiring Software Developer | ISE Student @ SSIT Tumakuru</h3>
 
 <p align="center">
@@ -10,7 +10,6 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 2nd Year B.E. student in **Information Science & Engineering** at SSIT, Tumakuru (2024–2028)
-- 🎯 Goal: Secured a **paid internship at a product-based company** by end of 3rd year
 - 🔨 Currently learning: **Git, Python, FastAPI, PostgreSQL**
 - 💡 Interested in: **Backend Development, AI Integration, DSA**
 - 📍 Based in: **Karnataka, India**
@@ -29,6 +28,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -39,20 +39,20 @@
 
 ## 🚀 Projects
 
-### 🔐 FraudGuard — Credit Card Fraud Detection
-- Detects fraudulent transactions using machine learning
-- **Stack:** Python, Flask, PostgreSQL, HTML/CSS/JS
+### 🏥 Smart City Health Management System (SHMS)
+- Role-based health management platform for Smart Cities
+- 3 panels: **Admin, Hospital, User** with separate dashboards
+- Features: appointment booking, bed management, doctor listings, SOS alerts, notifications
+- **Stack:** Python, FastAPI, SQLAlchemy, SQLite, HTML/CSS, Jinja2
 - [View Repository](#)
 
 ### 🏧 SSIT Bank ATM Simulation
 - Full ATM simulation with admin panel, role-based access, OOP design
-- **Stack:** Java
+- Features: multiple account types, loan management, card authentication, reward points
+- **Stack:** Java (OOP)
 - [View Repository](#)
 
-### 🏦 NAMMA BANK — Online Banking System
-- Online banking with account management and transactions
-- **Stack:** PHP, MySQL
-- [View Repository](#)
+
 
 ---
 
@@ -86,6 +86,5 @@
 ---
 
 <p align="center">⭐ <i>Consistency beats intensity — building every day!</i> ⭐</p>
-**Prajwal291/Prajwal291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
