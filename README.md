@@ -22,7 +22,7 @@
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=blue" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -46,7 +46,7 @@
 ### 📌 Featured Projects
 
 - **[Smart City Health Management System (SHMS)](https://github.com/Prajwal291)** — Role-based health management platform (admin/staff/patient panels) built with FastAPI, SQLAlchemy, and Jinja2.
-- **[SSIT Bank — ATM Simulation](https://github.com/Prajwal291/ATM_Simulation)** — Java OOP project covering card auth, loan management, admin panel, and a reward points system.
+- **[ATM-Simulation](https://github.com/Prajwal291/ATM_Simulation)** — Java OOP project covering card auth, loan management, admin panel, and a reward points system.
 
 
 
