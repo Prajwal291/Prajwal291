@@ -3,8 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Core%20CS%20%7C%20AI%2FML-blue" alt="focus badge"/>
-  <img src="https://img.shields.io/badge/Target-Off--Campus%20SDE%20Internships-orange" alt="target badge"/>
-</p>
+
 
 ---
 
