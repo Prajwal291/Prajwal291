@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Core%20CS%20%7C%20AI%2FML-blue" alt="focus badge"/>
-
+  <img src="https://img.shields.io/badge/Target-Off--Campus%20SDE%20Internships-orange" alt="target badge"/>
+</p>
 
 ---
 
@@ -46,9 +47,9 @@
 ### 📌 Featured Projects
 
 - **[Smart City Health Management System (SHMS)](https://github.com/Prajwal291)** — Role-based health management platform (admin/staff/patient panels) built with FastAPI, SQLAlchemy, and Jinja2.
-- **ATM Simulation** — Java OOP project covering card auth, loan management, admin panel, and a reward points system.
+- **[SSIT Bank — ATM Simulation](https://github.com/Prajwal291/ATM_Simulation)** — Java OOP project covering card auth, loan management, admin panel, and a reward points system.
 
-*(Update the links above once repo URLs are finalized — GitHub won't render them correctly otherwise.)*
+*(Update the SHMS link above once its repo URL is confirmed.)*
 
 ---
 
